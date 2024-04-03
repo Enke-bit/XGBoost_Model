@@ -1,0 +1,3 @@
+- XGBoost modeli ile çalışan basit bir örnek yaptım.
+- Bu model oldukça başarılı ve hızlı bir modeldir.
+- Son derece geliş ve yeni bir modeldir yapıçağınız çalışmalarda kullanmanızı tavsiye ederim.
